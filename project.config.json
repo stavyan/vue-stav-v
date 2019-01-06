@@ -11,7 +11,7 @@
 	"miniprogramRoot": "dist/wx/",
 	"compileType": "miniprogram",
 	"appid": "wxc31aa09c811058a8",
-	"projectname": "stav-v",
+	"projectname": "vue-stav-v",
 	"condition": {
 		"search": {
 			"current": -1,
